@@ -1,0 +1,5 @@
+petId,categoryId,categoryName,petName,photoUrls,tagsIds,tagsNames,status
+688977,1,dog,Sansa,,1;2,vacinado;castrado,available
+688980,2,cat,Saimon,,1;3,vacinado;vermifugado,available
+688981,3,mouse,Stuart,,1,vacinado,available
+688982,4,coelho,Maluco,,1;5,vacinado;chipado,available
